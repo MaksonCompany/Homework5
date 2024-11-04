@@ -1,0 +1,66 @@
+h1,
+form {
+    text-align: center;
+
+}
+
+input {
+    display: block;
+
+}
+
+.input1 {
+    margin: 0 auto;
+    width: 310px;
+    height: 37px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+span {
+    color: rgb(72, 173, 72);
+}
+
+.verh {
+    margin-top: 80px;
+}
+
+.verh2 {
+    margin-top: 50px;
+    margin-left: 790px;
+}
+
+.submit {
+    margin: 0 auto;
+    width: 325px;
+    height: 47px;
+    margin-top: 50px;
+    background-color: rgb(72, 173, 72);
+    border: 0;
+    color: white;
+}
+
+hr {
+    width: 325px;
+    margin-top: 50px;
+}
+
+.orreg {
+    margin-left: 890px;
+    margin-bottom: 30px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 325px;
+    height: 47px;
+    margin-top: 20px;
+    background-color: white;
+
+}
+
+img {
+    width: 15px;
+    height: 15px;
+}
